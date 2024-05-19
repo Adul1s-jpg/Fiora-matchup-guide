@@ -94,5 +94,3 @@ def load_matchup_data(self):
 - [PyQt5 Documentation](https://www.riverbankcomputing.com/static/Docs/PyQt5/)
 - [Python Official Documentation](https://docs.python.org/3/)
 - [Singleton Pattern in Python](https://refactoring.guru/design-patterns/singleton)
-
----
